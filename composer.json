@@ -1,0 +1,9 @@
+{
+  "name": "flower7c3/wp-demo-plugin",
+  "type": "library",
+  "require": {
+    "php": ">=8.0"
+  },
+  "license": "proprietary",
+  "minimum-stability": "dev"
+}
